@@ -1,7 +1,7 @@
-package validation
+package misc
 
 import (
-	`strconv`
+	"strconv"
 )
 
 const (
